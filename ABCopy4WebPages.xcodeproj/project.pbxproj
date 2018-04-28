@@ -15,6 +15,7 @@
 		8283B2F220951E5600E91629 /* ABCopy4WebPages.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ABCopy4WebPages.h; sourceTree = "<group>"; };
 		8283B2F320951E5600E91629 /* ABCopy4WebPages.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ABCopy4WebPages.m; sourceTree = "<group>"; };
 		8283B2F520951E5600E91629 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8283B2FB20951E8600E91629 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +32,7 @@
 		8283B2E620951E5600E91629 = {
 			isa = PBXGroup;
 			children = (
+				8283B2FB20951E8600E91629 /* README.md */,
 				8283B2F120951E5600E91629 /* ABCopy4WebPages */,
 				8283B2F020951E5600E91629 /* Products */,
 			);

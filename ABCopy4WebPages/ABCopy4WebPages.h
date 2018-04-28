@@ -1,13 +1,12 @@
 //
-//  ABCopy4WebPages.h
-//  ABCopy4WebPages
+//  Web_copy_phone_number.h
+//  Web copy phone number
 //
 //  Created by Annard Brouwer on 28/04/2018.
 //  Copyright © 2018 Annard Brouwer. All rights reserved.
 //
 
 #import <AddressBook/AddressBook.h>
-#import "ABCopy4WebPages.h"
 
 @interface ABCopy4WebPages : NSObject
 
