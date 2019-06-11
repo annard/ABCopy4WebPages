@@ -6,6 +6,6 @@ So a number like: +1 (415) 555-5555 will be put on the Clipboard as: +1415555555
 
 This has saved me a lot of anger and frustration with web sites that don't know how to clean up their data and make your life as a user difficult. You have to install the bundle in '~/Library/Address Book Plug-Ins'
 
-Let me know how you like it on twitter @realannard
+Let me know when you use it by sending me a message.
 
 
